@@ -1,4 +1,4 @@
-# Sales-Performance-Dashboard
+# Sales-Performance-Dashboard using SQL and Power BI
 This project aimed to develop a comprehensive Sales Performance Dashboard to provide actionable insights into sales data, leveraging SQL for data exploration and cleaning, and Power BI for dashboard building. The final dashboard comprises various visualizations highlighting crucial aspects of sales performance, along with slicers for enhanced interactivity.
 
 ## Steps Involved:
