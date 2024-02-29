@@ -153,3 +153,7 @@ This data model also shows how FACT_Budget has been connected to FACT_InternetSa
 
 
 The finished sales management dashboard with one page works as a dashboard and overview, with two other pages focused on combining tables for necessary details and visualizations to show sales over time, per customer, and per product.
+
+![dash](https://github.com/micky-26/Sales-Performance-Dashboard-using-SQL-and-Power-BI/assets/106061980/93082cd1-79b6-4637-9a8a-7d0af3fa455f)
+
+
