@@ -1,7 +1,8 @@
 # Sales-Performance-Dashboard using SQL and Power BI
 This project aimed to develop a comprehensive Sales Performance Dashboard to provide actionable insights into sales data, leveraging SQL for data exploration and cleaning, and Power BI for dashboard building. The final dashboard comprises various visualizations highlighting crucial aspects of sales performance, along with slicers for enhanced interactivity.
 
-### Problem Statement: A sales manager wants to improve their internet sales and want to move from static reports to visual dashboards. They want to focus on how much of products they have sold and to which clients and how it has been over time. Seeing as each salesperson works on different products and customers it would be beneficial to be able to filter them also.
+### Problem Statement: 
+A sales manager wants to improve their internet sales and want to move from static reports to visual dashboards. They want to focus on how much of products they have sold and to which clients and how it has been over time. Seeing as each salesperson works on different products and customers it would be beneficial to be able to filter them also.
 They measure our numbers against the budget so he has added that in a spreadsheet so we can compare our values against performance. 
 The budget is for 2021 and they usually look 2 years back in time when we do analysis of sales.
 
