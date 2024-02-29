@@ -143,4 +143,7 @@ This data model also shows how FACT_Budget has been connected to FACT_InternetSa
 
 ![5](https://github.com/micky-26/Sales-Performance-Dashboard/assets/106061980/6e51b990-939c-41a5-b65d-4d7e9b109864)
 
-### 3. Dashboard Building using Power BI
+### 3. Sales Performance Dashboard Building using Power BI
+
+
+The finished sales management dashboard with one page works as a dashboard and overview, with two other pages focused on combining tables for necessary details and visualizations to show sales over time, per customer, and per product.
