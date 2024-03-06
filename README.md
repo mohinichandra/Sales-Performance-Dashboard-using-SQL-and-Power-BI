@@ -1,6 +1,9 @@
 # Sales-Performance-Dashboard using SQL and Power BI
 This project aimed to develop a comprehensive Sales Performance Dashboard to provide actionable insights into sales data, leveraging SQL for data exploration and cleaning, and Power BI for dashboard building. The final dashboard comprises various visualizations highlighting crucial aspects of sales performance, along with slicers for enhanced interactivity.
 
+![dashboard](https://github.com/micky-26/Sales-Performance-Dashboard-using-SQL-and-Power-BI/assets/106061980/87b6ee85-ef22-46b7-846f-12026a10b774)
+
+
 ### Problem Statement: 
 A sales manager wants to improve their internet sales and want to move from static reports to visual dashboards. They want to focus on how much of products they have sold and to which clients and how it has been over time. Seeing as each salesperson works on different products and customers it would be beneficial to be able to filter them also.
 They measure our numbers against the budget so he has added that in a spreadsheet so we can compare our values against performance. 
@@ -154,6 +157,6 @@ This data model also shows how FACT_Budget has been connected to FACT_InternetSa
 
 The finished sales management dashboard with one page works as a dashboard and overview, with two other pages focused on combining tables for necessary details and visualizations to show sales over time, per customer, and per product.
 
-![dash](https://github.com/micky-26/Sales-Performance-Dashboard-using-SQL-and-Power-BI/assets/106061980/93082cd1-79b6-4637-9a8a-7d0af3fa455f)
 
+![dashboard](https://github.com/micky-26/Sales-Performance-Dashboard-using-SQL-and-Power-BI/assets/106061980/940c9f58-e9ce-46a2-a03b-f70cc48f52ce)
 
